@@ -11,6 +11,8 @@ void main() async {
   showSplashScreen();
 
   runApp(const MyApp());
+
+  // test pull request
 }
 
 void showSplashScreen() async {
